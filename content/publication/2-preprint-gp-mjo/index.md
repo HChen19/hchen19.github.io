@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'manuscript.pdf'
+url_pdf: ''
 url_code: 'https://github.com/vishwas1984/SINDy_RealData'
 url_dataset: 'http://www.bom.gov.au/climate/mjo/graphics/rmm.74toRealtime.txt'
 url_poster: 'https://neurips.cc/virtual/2023/76870'
