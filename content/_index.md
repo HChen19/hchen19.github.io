@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: RA, and TA for MATH 311, ISEN 413, ISEN 616
+        - title: RA/TA for MATH 311, ISEN 413, ISEN 616
           company: Texas A&M University
           company_url: ''
           company_logo: tamu-logo #org-gc
@@ -215,11 +215,11 @@ sections:
         <div style="line-height:1.3em; margin-bottom:35px;">
           <h2 style="font-size:1.3em; margin-bottom:0.5em; font-weight:bold;">Research Overview</h2>
           <p style="font-size:0.9em;line-height:1.3em;">
-            My research aims to develop scalable and robust <em style="color:blue;">uncertainty quantification</em> (UQ) methods for modern machine learning, with a particular focus on <em style="color:blue;">Gaussian processes</em> (GPs).<br><br>
+            My research aims to develop scalable and robust <span style="color:blue;">Uncertainty quantification</span> (UQ) methods for modern machine learning, with a particular focus on <span style="color:blue;">Gaussian processes</span> (GPs).<br><br>
 
-            While GPs are powerful for UQ, they face significant computational challenges, including the costly inversion and log-determinant of the covariance matrix, which limit their scalability to large datasets. Moreover, maintaining accurate uncertainty estimates in applications like deep kernel learning, and real-world problems is complicated by issues like overfitting, miscalibrated uncertainty bounds, and data complexities such as non-stationarity and heteroscedasticity.
+            While GPs are powerful for UQ, they face significant computational challenges, including the costly inversion and log-determinant of the covariance matrix, which limit their scalability to large datasets. Moreover, maintaining accurate uncertainty estimates in applications like deep kernel learning and real-world problems is complicated by issues such as overfitting, miscalibrated uncertainty bounds, and data complexities (e.g., non-stationarity and heteroscedasticity).<br><br>
             
-            My research addresses these challenges by developing efficient algorithms for GP computation and enhancing the robustness of uncertainty estimates, ensuring GPs are both scalable and robust for UQ across diverse applications.<br><br>
+            My research addresses these challenges by developing efficient algorithms for GP computation and enhancing the robustness of uncertainty estimates, ensuring that GPs are both scalable and robust for UQ across diverse applications.<br><br>
           </p>
         </div>
       

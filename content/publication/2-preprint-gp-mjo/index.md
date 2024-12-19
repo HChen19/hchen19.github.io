@@ -19,6 +19,7 @@ author_notes:
 
 date: '2023-11-01T00:00:00Z'
 doi: ''
+math: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-12-01T00:00:00Z'
@@ -29,8 +30,8 @@ publishDate: '2024-12-01T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: Under revision for Journal of Advances in Modeling Earth Systems
-publication_short: Under revision for JAMES
+publication: Under revision for Journal of Advances in Modeling Earth Systems (JAMES)
+publication_short:
 
 abstract: The Madden--Julian Oscillation (MJO) is an influential climate phenomenon that plays a vital role in modulating global weather patterns. In spite of the improvement in MJO predictions made by machine learning algorithms, such as neural networks, most of them cannot provide the uncertainty levels in the MJO forecasts directly. To address this problem, we develop a nonparametric strategy based on Gaussian process (GP) models. We calibrate GPs using empirical correlations and we propose a posteriori covariance correction. Numerical experiments demonstrate that our model has better prediction skills than the ANN models for the first five lead days. Additionally, our posteriori covariance correction extends the probabilistic coverage by more than three weeks.
 

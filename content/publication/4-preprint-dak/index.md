@@ -22,6 +22,7 @@ author_notes:
 
 date: '2024-10-15T00:00:00Z'
 doi: ''
+math: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-12-01T00:00:00Z'

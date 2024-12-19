@@ -29,7 +29,7 @@ bio: My research interests include Gaussian processes, uncerntainty quantificati
 
 # Interests to show in About widget
 interests:
-  - Gaussian processes
+  - Gaussian Processes
   - Uncerntainty Quantification
   - Bayesian Learning
   - Probabilistic Machine Learning
