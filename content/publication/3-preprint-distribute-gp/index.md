@@ -15,19 +15,19 @@ publishDate: "2024-12-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under revision for IISE Transactions"
+publication: Under revision for IISE Transactions
 publication_short: ""
 
-abstract: "GP models have received increasingly attentions in recent years due to their super prediction accuracy and modeling flexibility. To address the computational burdens of GP models for large-scale datasets, distributed learning for GPs are often adopted Current aggregation models for distributed GPs are not time-efficient when incorporating correlations between GP experts. In this work, we propose a novel approach for aggregated prediction in distributed GPs. The technique is suitable for both the exact and sparse variational GPs. The proposed method incorporates correlations among experts, leading to better prediction accuracy with manageable computational requirements. As demonstrated by empirical studies, the proposed approach results in more stable predictions in less time than state-of-the-art consistent aggregation models."
+abstract: GP models have received increasingly attentions in recent years due to their super prediction accuracy and modeling flexibility. To address the computational burdens of GP models for large-scale datasets, distributed learning for GPs are often adopted Current aggregation models for distributed GPs are not time-efficient when incorporating correlations between GP experts. In this work, we propose a novel approach for aggregated prediction in distributed GPs. The technique is suitable for both the exact and sparse variational GPs. The proposed method incorporates correlations among experts, leading to better prediction accuracy with manageable computational requirements. As demonstrated by empirical studies, the proposed approach results in more stable predictions in less time than state-of-the-art consistent aggregation models.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
 - GP
-- Distributed learning
-- Aggregated prediction
-- Optimized combination technique
+- distributed learning
+- aggregated prediction
+- optimized combination technique
 featured: false
 
 links:
