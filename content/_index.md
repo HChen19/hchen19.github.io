@@ -68,7 +68,7 @@ sections:
           company_url: ''
           company_logo: tamu-logo #org-gc
           location: College Station, Texas
-          date_start: '' #'2020-01-01'
+          date_start: '2020-01-01'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
