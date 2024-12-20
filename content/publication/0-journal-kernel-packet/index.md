@@ -41,7 +41,7 @@ featured: false
 url_pdf: https://jmlr.org/papers/volume23/21-1232/21-1232.pdf
 url_code: 'https://github.com/hchen19/kernel_packet'
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster-kp.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

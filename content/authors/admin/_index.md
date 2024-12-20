@@ -145,5 +145,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a Ph.D. Student in Industrial Engineering supervised under [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/) at Texas A&M University.
+I am currently a PhD Student in Industrial Engineering supervised by [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/) at Texas A&M University.
 {style="text-align: justify;"}
